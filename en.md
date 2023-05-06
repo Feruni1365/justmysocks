@@ -7,7 +7,7 @@
 * <a href="#user-content-just2"> `Just My Socks` purchase </a> 
 * <a href="#user-content-just3"> `Just My Socks` coupon code </a> 
 * <a href="#user-content-just4"> `Just My Socks` registration </a> 
-* <a href="#user-content-just5"> `Just My Socks` information review </a> 
+* <a href="#user-content-justi5"> `Just My Socks` information review </a> 
 * <a href="#user-content-just6"> How to use `Just My Socks` </a> 
 
 
